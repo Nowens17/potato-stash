@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>AES</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>25fa90a2c33212101fcef6edd40131dd</logo>
+        <menu/>
+        <name>Stash My Stuff</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_881287_stash_m_0</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>This application serves as a tool to implement a system of streamlined physical storage coupled with a digital interface for managing organization.</short_description>
+        <source>x_881287_stash_m_0</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-02 13:54:03</sys_created_on>
+        <sys_id>fcfa9caac37212101fcef6edd40131af</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-02 13:54:07</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=fcfa9caac37212101fcef6edd40131af"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>boxes.png</file_name>
+        <hash>f497fdce1144d4429e9a78aecc54dc2e309f04ef2631d688748e1ee014bd6f35</hash>
+        <image_height>256</image_height>
+        <image_width>256</image_width>
+        <size_bytes>3361</size_bytes>
+        <size_compressed>3070</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-02 13:54:06</sys_created_on>
+        <sys_id>25fa90a2c33212101fcef6edd40131dd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-02 13:54:07</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>fcfa9caac37212101fcef6edd40131af</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="boxes.png" sys_id="25fa90a2c33212101fcef6edd40131dd">25fa90a2c33212101fcef6edd40131dd</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-02 13:54:06</sys_created_on>
+        <sys_id>65fa90a2c33212101fcef6edd40131dd</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4080</length>
+        <position>1</position>
+        <sys_attachment display_value="boxes.png" sys_id="25fa90a2c33212101fcef6edd40131dd">25fa90a2c33212101fcef6edd40131dd</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-02 13:54:06</sys_created_on>
+        <sys_id>e5fa90a2c33212101fcef6edd40131dd</sys_id>
+    </sys_attachment_doc>
+</record_update>
